@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Caleb-Stripes
 - 👀 I’m interested in outdoor adventures and building useful tools to help humanity achieve environmental equity and a sustainable society.
-- 🌱 I’m currently learning node.js, php and Angular
+- 🌱 I am using languages/tools including Java, C#, Spring, Docker, SQL, React, HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on projects that will further my skills.
 - 📫 How to reach me ... calebstripes on instagram
 
